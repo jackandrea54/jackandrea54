@@ -39,6 +39,6 @@ I'm always open to collaborating on interesting projects. Feel free to reach out
 
 📝 Philosophy
 
-"Success is not final, failure is not fatal: It is the courage to continue that counts." - Winston Churchill
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=When+you+are+free,+look+busy.&author=Me)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Thanks for visiting my profile! Feel free to explore my repositories and leave a star ⭐ if you find something interesting.
